@@ -59,9 +59,9 @@ I enjoy building projects that combine **C++/Python**, **Data Structures & Algor
 ---
 
 ## 📫 Connect With Me
-- GitHub: *your-link*  
-- LinkedIn: *your-link*  
-- Email: *your-email*  
+- GitHub: https://github.com/muskaan-0908  
+- LinkedIn: https://www.linkedin.com/in/muskaan-makkar/ 
+- Email: muskaanmakkar987@gmail.com
 
 ---
 
