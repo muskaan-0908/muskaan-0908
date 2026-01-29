@@ -17,7 +17,6 @@ I enjoy building projects that combine **C++/Python**, **Data Structures & Algor
 ### 💻 Programming
 - C++ (STL, OOP, basic DSA)
 - Python (NumPy, Pandas, ML workflows)
-- Basic shell scripting
 
 ### 🧠 AI / Machine Learning
 - Supervised & Unsupervised ML Models  
