@@ -28,8 +28,7 @@ I enjoy building projects that combine **C++/Python**, **Data Structures & Algor
 ### 📐 Electronics & VLSI (Foundational)
 - Digital Electronics  
 - Boolean Logic & Circuit Design  
-- VLSI basics (layouts, fabrication flow)  
-- HDL exposure (if you want, I can add Verilog/SystemVerilog)
+
 
 ---
 
